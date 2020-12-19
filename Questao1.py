@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 #Questao1.ipynb
 
-Autor: Gustavo Montes Machado
-Data: 19/12/2020
+'''Autor: Gustavo Montes Machado
+   Data: 19/12/2020'''
 
 n = 1                                               # variável dos numeros  ue irao cobrir o intervalo pedido                                             #variável que soma a
 lista = []                                          # criando a lista que vai armazenar os numeros que satisfazem as condiçoes 
