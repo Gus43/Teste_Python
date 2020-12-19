@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 #Questao2.ipynb
 
-Autor: Gustavo Montes Machado
-Data: 19/12/2020
+'''Autor: Gustavo Montes Machado
+   Data: 19/12/2020'''
 
 import math as mt                                    # importando o math para usar as feraamentas de vetor a afins
 i = 0                                                
