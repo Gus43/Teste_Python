@@ -1,4 +1,4 @@
-# Teste_Python
+# Teste Python
 
 Teste de habilidades em Python para candidatura ao estágio de verão da Navi Capital.
 
