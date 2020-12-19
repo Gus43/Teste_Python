@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 #Questao3.ipynb
 
-
 '''Autor: Gustavo Montes Machado
    Data: 19/12/2020'''
 
